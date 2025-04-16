@@ -1,4 +1,4 @@
 # Welcome!
 ## Contents
 ### DE
-[Data Learn](https://github.com/adrianhel/datalearn/README.MD)
+[Data Learn](https://github.com/adrianhel/datalearn/)
