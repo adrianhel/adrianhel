@@ -14,9 +14,10 @@ ___
 ___
 
 ### [Data Learn](https://github.com/adrianhel/datalearn/)
+_Результаты прохождения онлайн курса Дмитрия Аношина 
+[«Data Learn»](https://github.com/Data-Learn/data-engineering/tree/master)._
 
+### [Data Quality](https://github.com/adrianhel/data_quality)
+_Немного о качестве данных и используемых библиотеках для его обеспечения._
 
-### [Data Quality]()
-
-
-### [Data Wrangling]()
+### [Data Wrangling](https://github.com/adrianhel/data_wrangling_exercises)
