@@ -27,4 +27,3 @@ _Немного о качестве данных и используемых б�
 
 ## 🤝 Связаться со мной
 [![telegram](https://img.shields.io/badge/telegram-adrianhel-blue?logo=telegram)](https://t.me/adrianhel)
-![mail](https://img.shields.io/badge/mail-adrianhel@mail.ru-yellow) 
