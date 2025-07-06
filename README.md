@@ -26,6 +26,6 @@ _Немного о качестве данных и используемых б�
 - Создать учебные материалы для развития единомышленников.
 
 ## 🤝 Связаться со мной
-- ![telegram](https://img.shields.io/badge/telegram-blue) https://t.me/@adrianhel
+![telegram](https://img.shields.io/badge/telegram-blue) @adrianhel
 
-- ![mail](https://img.shields.io/badge/mail-yellow) adrianhel@mail.ru
+![mail](https://img.shields.io/badge/mail-yellow) adrianhel@mail.ru
