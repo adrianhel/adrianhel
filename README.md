@@ -14,8 +14,8 @@ _Используйте меню ниже для навигации по реп�
 - #### 📈 [Data Learn](https://github.com/adrianhel/datalearn/)
 - #### 🌱 [Data Wrangling](https://github.com/adrianhel/data_wrangling_exercises)
 - #### 🔎 [Data Quality](https://github.com/adrianhel/data_quality)
-- #### 🪙 [Exchange Rate](https://github.com/adrianhel/exchange_rate.md)
-- #### 🧩 [Final Tasks](https://github.com/adrianhel/final_tasks.md)
+- #### 🪙 [Exchange Rate](https://github.com/adrianhel/exchange_rate)
+- #### 🧩 [Final Tasks](https://github.com/adrianhel/final_tasks)
 
 ## 🤝 Связаться со мной
 [![telegram](https://img.shields.io/badge/telegram-adrianhel-blue?logo=telegram)](https://t.me/adrianhel)
